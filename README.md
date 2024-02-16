@@ -1,10 +1,11 @@
-project_name
+Project_name
 ==============================
-# Sign-Language-Detection-Yolov5
+# Sign_language_detection
 
 ### 1. Create environment
 
 ```bash
+
 python -m venv venv
 
 ```
@@ -14,14 +15,14 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt
 
-
-### Yolov5
-
-https://github.com/ultralytics/yolov5
-
-
+```
 ## Installation of yolov5 locally
 
 ```bash
 pip install -r yolov5/requirements.txt
+
 ```
+
+### Yolov5
+
+https://github.com/ultralytics/yolov5
